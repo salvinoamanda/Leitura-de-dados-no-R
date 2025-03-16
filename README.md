@@ -2,7 +2,6 @@
 
 Este código foi desenvolvido com o objetivo de facilitar a leitura de arquivos (DBF ou outro formato se quiser alterar), tratando erros e possibilitando a seleção de colunas específicas.
 
----
 
 ## Funcionalidades
 
