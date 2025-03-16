@@ -16,6 +16,7 @@ Este código foi desenvolvido com o objetivo de facilitar a leitura de arquivos 
 2. **Alterar o diretório de trabalho (linha: 19):** O diretório de trabalho deve ser alterado para a pasta onde os seus arquivos .dbc estão localizados.
 3. **Selecionar as colunas a serem lidas (linha: 93):** Você deve especificar as colunas que deseja selecionar dos arquivos .dbc. Altere a lista "dados_selecionados" conforme necessário.
 
-
+<br>
+<br>
 
 Este projeto é licenciado sob a MIT License.
